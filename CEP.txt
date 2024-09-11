@@ -1,0 +1,15 @@
+{
+  "cep": "64084-120",
+  "logradouro": "Rua Resplendor",
+  "complemento": "(Vl Bagdá)",
+  "unidade": "",
+  "bairro": "São Sebastião",
+  "localidade": "Teresina",
+  "uf": "PI",
+  "estado": "Piauí",
+  "regiao": "Nordeste",
+  "ibge": "2211001",
+  "gia": "",
+  "ddd": "86",
+  "siafi": "1219"
+}

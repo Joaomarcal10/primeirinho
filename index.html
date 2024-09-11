@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <div class="container">
+        <h1>Cadastro de Usuário</h1>
+        <form id="cadastroForm">
+            <label for="cnpj">CNPJ:</label>
+            <input type="number" id="cnpj" name="cnpj" required>
+            <button type="button" onclick="buscarCnpj()">BUSCAR</button>
+            <hr>
+
+            <label for="nome">Nome:</label>
+            <input type="text" id="nome" name="nome" required>
+
+            <label for="email">E-mail:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="telefone">Telefone:</label>
+            <input type="tel" id="telefone" name="telefone" required>
+
+            <label for="razao">Razão Social:</label>
+            <input type="text" id="razao" name="razao" required>
+
+            <label for="datainicio">Data Inicio de Atividade:</label>
+            <input type="date" id="datainicio" name="datainicio" required>
+
+            <label for="endereco">Endereço:</label>
+            <input type="text" id="endereco" name="endereco" required>
+
+            <label for="cidade">Cidade:</label>
+            <input type="text" id="cidade" name="cidade" required>
+
+            <label for="estado">Estado:</label>
+            <input type="text" id="estado" name="estado" required>
+
+            <label for="cep">CEP:</label>
+            <input type="text" id="cep" name="cep" required>
+
+            <label for="senha">Senha:</label>
+            <input type="password" id="senha" name="senha" required>
+
+            <label for="confirmarSenha">Confirmar Senha:</label>
+            <input type="password" id="confirmarSenha" name="confirmarSenha" required>
+
+            <label for="observacoes">Observações:</label>
+            <textarea id="observacoes" name="observacoes" rows="4"></textarea>
+
+            <button type="submit">Cadastrar</button>
+        </form>
+    </div>
+
+</body>
+<script src="https://cdn.jsdelivr.net/npm/axios@1.6.7/dist/axios.min.js"></script>
+<script>
+    function buscarCnpj() {
+        let cnpj = document.getElementById("cnpj").value;
+        cnpj = cnpj.replace(/\D/g, "")
+        axios.get("https://publica.cnpj.ws/cnpj/"+cnpj).then(response=>{
+            console.log(response.data)
+            document.getElementById("razao").value = response.data.razao_social
+            document.getElementById("nome").value = response.data.estabelecimento.nome_fantasia
+            document.getElementById("email").value = response.data.estabelecimento.email
+            document.getElementById("telefone").value = response.data.estabelecimento.telefone1
+            document.getElementById("endereco").value = response.data.estabelecimento.logradouro
+            document.getElementById("cidade").value = response.data.estabelecimento.cidade.nome
+            document.getElementById("estado").value = response.data.estabelecimento.estado.nome
+            document.getElementById("cep").value = response.data.estabelecimento.cep
+            document.getElementById("datainicio").value = response.data.estabelecimento.data_inicio_atividade
+        }).catch(erro=>{
+            alert("CNPJ não encontrado!")
+            console.log(erro)
+        }) 
+    }
+</script>
+</html>

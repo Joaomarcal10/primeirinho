@@ -1,0 +1,280 @@
+{
+  "cnpj_raiz": "13133062",
+  "razao_social": "G3 TELECOM LTDA",
+  "capital_social": "10000000.00",
+  "responsavel_federativo": "",
+  "atualizado_em": "2024-08-10T03:00:00.000Z",
+  "porte": {
+    "id": "03",
+    "descricao": "Empresa de Pequeno Porte"
+  },
+  "natureza_juridica": {
+    "id": "2062",
+    "descricao": "Sociedade Empresária Limitada"
+  },
+  "qualificacao_do_responsavel": {
+    "id": 49,
+    "descricao": "Sócio-Administrador "
+  },
+  "socios": [
+    {
+      "cpf_cnpj_socio": "***195393**",
+      "nome": "RENILDO GONCALVES DE CARVALHO",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2011-01-12",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "41 a 50 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 49,
+        "descricao": "Sócio-Administrador "
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***615943**",
+      "nome": "HAROLDO TITO DE OLIVEIRA JUNIOR",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2022-10-27",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "31 a 40 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 22,
+        "descricao": "Sócio"
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***176693**",
+      "nome": "CARLOS SAMUEL RODRIGUES FONTINELE",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2023-07-24",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "41 a 50 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 22,
+        "descricao": "Sócio"
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***043583**",
+      "nome": "LUELTON LOPES DE SOUSA",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2022-10-27",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "31 a 40 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 22,
+        "descricao": "Sócio"
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***832903**",
+      "nome": "ANTONIO CARLOS RODRIGUES FONTINELE",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2022-04-28",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "41 a 50 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 22,
+        "descricao": "Sócio"
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    }
+  ],
+  "simples": {
+    "simples": "Não",
+    "data_opcao_simples": "2018-01-01",
+    "data_exclusao_simples": "2018-12-31",
+    "mei": "Não",
+    "data_opcao_mei": null,
+    "data_exclusao_mei": null,
+    "atualizado_em": "2024-08-10T03:00:00.000Z"
+  },
+  "estabelecimento": {
+    "cnpj": "13133062000113",
+    "atividades_secundarias": [
+      {
+        "id": "6110801",
+        "secao": "J",
+        "divisao": "61",
+        "grupo": "61.1",
+        "classe": "61.10-8",
+        "subclasse": "6110-8/01",
+        "descricao": "Serviços de telefonia fixa comutada - STFC"
+      },
+      {
+        "id": "6141800",
+        "secao": "J",
+        "divisao": "61",
+        "grupo": "61.4",
+        "classe": "61.41-8",
+        "subclasse": "6141-8/00",
+        "descricao": "Operadoras de televisão por assinatura por cabo"
+      },
+      {
+        "id": "6190601",
+        "secao": "J",
+        "divisao": "61",
+        "grupo": "61.9",
+        "classe": "61.90-6",
+        "subclasse": "6190-6/01",
+        "descricao": "Provedores de acesso às redes de comunicações"
+      },
+      {
+        "id": "6209100",
+        "secao": "J",
+        "divisao": "62",
+        "grupo": "62.0",
+        "classe": "62.09-1",
+        "subclasse": "6209-1/00",
+        "descricao": "Suporte técnico, manutenção e outros serviços em tecnologia da informação"
+      },
+      {
+        "id": "6311900",
+        "secao": "J",
+        "divisao": "63",
+        "grupo": "63.1",
+        "classe": "63.11-9",
+        "subclasse": "6311-9/00",
+        "descricao": "Tratamento de dados, provedores de serviços de aplicação e serviços de hospedagem na Internet"
+      },
+      {
+        "id": "6319400",
+        "secao": "J",
+        "divisao": "63",
+        "grupo": "63.1",
+        "classe": "63.19-4",
+        "subclasse": "6319-4/00",
+        "descricao": "Portais, provedores de conteúdo e outros serviços de informação na Internet"
+      },
+      {
+        "id": "7490104",
+        "secao": "M",
+        "divisao": "74",
+        "grupo": "74.9",
+        "classe": "74.90-1",
+        "subclasse": "7490-1/04",
+        "descricao": "Atividades de intermediação e agenciamento de serviços e negócios em geral, exceto imobiliários"
+      }
+    ],
+    "cnpj_raiz": "13133062",
+    "cnpj_ordem": "0001",
+    "cnpj_digito_verificador": "13",
+    "tipo": "Matriz",
+    "nome_fantasia": "G3 TELECOM",
+    "situacao_cadastral": "Ativa",
+    "data_situacao_cadastral": "2011-01-12",
+    "data_inicio_atividade": "2011-01-12",
+    "nome_cidade_exterior": null,
+    "tipo_logradouro": "RUA",
+    "logradouro": "JULIO MENDES",
+    "numero": "50",
+    "complemento": null,
+    "bairro": "FATIMA",
+    "cep": "64049320",
+    "ddd1": "86",
+    "telefone1": "32243979",
+    "ddd2": null,
+    "telefone2": null,
+    "ddd_fax": null,
+    "fax": null,
+    "email": "fiscal@ipscontabilidade.com",
+    "situacao_especial": null,
+    "data_situacao_especial": null,
+    "atualizado_em": "2024-08-10T03:00:00.000Z",
+    "atividade_principal": {
+      "id": "6110803",
+      "secao": "J",
+      "divisao": "61",
+      "grupo": "61.1",
+      "classe": "61.10-8",
+      "subclasse": "6110-8/03",
+      "descricao": "Serviços de comunicação multimídia - SCM"
+    },
+    "pais": {
+      "id": "1058",
+      "iso2": "BR",
+      "iso3": "BRA",
+      "nome": "Brasil",
+      "comex_id": "105"
+    },
+    "estado": {
+      "id": 17,
+      "nome": "Piauí",
+      "sigla": "PI",
+      "ibge_id": 22
+    },
+    "cidade": {
+      "id": 883,
+      "nome": "Teresina",
+      "ibge_id": 2211001,
+      "siafi_id": "1219"
+    },
+    "motivo_situacao_cadastral": null,
+    "inscricoes_estaduais": [
+      {
+        "inscricao_estadual": "194828816",
+        "ativo": true,
+        "atualizado_em": "2023-12-28T09:29:07.632Z",
+        "estado": {
+          "id": 17,
+          "nome": "Piauí",
+          "sigla": "PI",
+          "ibge_id": 22
+        }
+      }
+    ]
+  }
+}
