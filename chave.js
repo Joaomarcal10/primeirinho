@@ -12,7 +12,7 @@ app.use(Bodyparser.json());
 app.get("/form",(req,res)=>{
     let cnpj = req.body.cnpj;
     if(cnpj != undefined){
-        cnpj = cnpj.replace(/\D/g, "")
+        cnpj = cnpj.replace(/[^\d]/g, '');
         axios.get(`https://publica.cnpj.ws/cnpj/${cnpj}`)
         console.log(response.data)
     }

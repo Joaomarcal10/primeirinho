@@ -1,15 +1,15 @@
 {
-  "cep": "64084-120",
-  "logradouro": "Rua Resplendor",
-  "complemento": "(Vl Bagdá)",
-  "unidade": "",
-  "bairro": "São Sebastião",
-  "localidade": "Teresina",
-  "uf": "PI",
-  "estado": "Piauí",
-  "regiao": "Nordeste",
-  "ibge": "2211001",
+  "cep": "70040-912",
+  "logradouro": "SAUN Quadra 5 Lote B Torres I",
+  "complemento": "II e III",
+  "unidade": "Edifício Banco do Brasil",
+  "bairro": "Asa Norte",
+  "localidade": "Brasília",
+  "uf": "DF",
+  "estado": "Distrito Federal",
+  "regiao": "Centro-Oeste",
+  "ibge": "5300108",
   "gia": "",
-  "ddd": "86",
-  "siafi": "1219"
+  "ddd": "61",
+  "siafi": "9701"
 }

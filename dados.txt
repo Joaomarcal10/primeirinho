@@ -1,77 +1,998 @@
 {
-  "cnpj_raiz": "51926701",
-  "razao_social": "51.926.701 DAVI HENRIQUE DE ALMEIDA REIS",
-  "capital_social": "700.00",
+  "cnpj_raiz": "00000000",
+  "razao_social": "BANCO DO BRASIL SA",
+  "capital_social": "120000000000.00",
   "responsavel_federativo": "",
-  "atualizado_em": "2024-08-10T03:00:00.000Z",
+  "atualizado_em": "2024-09-21T08:27:09.000Z",
   "porte": {
-    "id": "01",
-    "descricao": "Micro Empresa"
+    "id": "05",
+    "descricao": "Demais"
   },
   "natureza_juridica": {
-    "id": "2135",
-    "descricao": "Empresário (Individual)"
+    "id": "2038",
+    "descricao": "Sociedade de Economia Mista"
   },
   "qualificacao_do_responsavel": {
-    "id": 50,
-    "descricao": "Empresário "
+    "id": 10,
+    "descricao": "Diretor "
   },
-  "socios": [],
+  "socios": [
+    {
+      "cpf_cnpj_socio": "***128734**",
+      "nome": "TARCIANA PAULA GOMES MEDEIROS",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2023-01-26",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "41 a 50 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 16,
+        "descricao": "Presidente "
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***224319**",
+      "nome": "EVERTON LUIS KAPFENBERGER",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2024-03-14",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "41 a 50 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 10,
+        "descricao": "Diretor "
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***464088**",
+      "nome": "CARLOS EDUARDO GUEDES PINTO",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2024-02-02",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "41 a 50 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 10,
+        "descricao": "Diretor "
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***842999**",
+      "nome": "ALBERTO MARTINHAGO VIEIRA",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2023-07-20",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "41 a 50 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 10,
+        "descricao": "Diretor "
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***027514**",
+      "nome": "KAMILLO TONONI OLIVEIRA SILVA",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2023-07-20",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "41 a 50 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 10,
+        "descricao": "Diretor "
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***225791**",
+      "nome": "MARCO GEOVANNE TOBIAS DA SILVA",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2023-03-22",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "51 a 60 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 10,
+        "descricao": "Diretor "
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***295868**",
+      "nome": "CARLA NESI",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2023-03-22",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "51 a 60 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 10,
+        "descricao": "Diretor "
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***309199**",
+      "nome": "LUCINEIA POSSAR",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2017-11-28",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "51 a 60 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 10,
+        "descricao": "Diretor "
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***404558**",
+      "nome": "JOSE RICARDO SASSERON",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2023-03-22",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "61 a 70 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 10,
+        "descricao": "Diretor "
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***355918**",
+      "nome": "FRANCISCO AUGUSTO LASSALVIA",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2020-09-29",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "41 a 50 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 10,
+        "descricao": "Diretor "
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***058029**",
+      "nome": "JULIO CESAR VEZZARO",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2023-07-20",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "41 a 50 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 10,
+        "descricao": "Diretor "
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***038787**",
+      "nome": "LARISSA DA SILVA NOVAIS VIEIRA",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2023-07-20",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "41 a 50 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 10,
+        "descricao": "Diretor "
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***344060**",
+      "nome": "JOAO FRANCISCO FRUET JUNIOR",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2023-07-20",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "51 a 60 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 10,
+        "descricao": "Diretor "
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***181471**",
+      "nome": "ROSIANE BARBOSA LAVIOLA",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2023-07-20",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "51 a 60 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 10,
+        "descricao": "Diretor "
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***211719**",
+      "nome": "RAFAEL MACHADO GIOVANELLA",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2023-06-12",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "41 a 50 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 10,
+        "descricao": "Diretor "
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***147908**",
+      "nome": "MARIANA PIRES DIAS",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2023-06-12",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "41 a 50 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 10,
+        "descricao": "Diretor "
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***210718**",
+      "nome": "LUCIANO MATARAZZO REGNO",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2023-05-17",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "41 a 50 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 10,
+        "descricao": "Diretor "
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***550179**",
+      "nome": "ALAN CARLOS GUEDES DE OLIVEIRA",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2023-05-17",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "41 a 50 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 10,
+        "descricao": "Diretor "
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***344088**",
+      "nome": "EULER ANTONIO LUZ MATHIAS",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2023-03-22",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "51 a 60 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 10,
+        "descricao": "Diretor "
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***301948**",
+      "nome": "MARISA REGHINI FERREIRA MATTOS",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2023-03-22",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "41 a 50 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 10,
+        "descricao": "Diretor "
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***631536**",
+      "nome": "NEUDSON PERES DE FREITAS",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2022-04-06",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "41 a 50 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 10,
+        "descricao": "Diretor "
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***043411**",
+      "nome": "JOAO VAGNES DE MOURA SILVA",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2021-07-13",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "51 a 60 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 10,
+        "descricao": "Diretor "
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***989951**",
+      "nome": "PAULA SAYAO CARVALHO ARAUJO",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2020-09-24",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "41 a 50 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 10,
+        "descricao": "Diretor "
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***345856**",
+      "nome": "FELIPE GUIMARAES GEISSLER PRINCE",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2020-07-10",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "41 a 50 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 10,
+        "descricao": "Diretor "
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***035920**",
+      "nome": "EDUARDO CESAR PASA",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2015-06-30",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "51 a 60 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 10,
+        "descricao": "Diretor "
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***561061**",
+      "nome": "RODRIGO COSTA VASCONCELOS",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2023-07-20",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "41 a 50 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 10,
+        "descricao": "Diretor "
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***132426**",
+      "nome": "LUIZ GUSTAVO BRAZ LAGE",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2023-07-20",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "51 a 60 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 10,
+        "descricao": "Diretor "
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***472469**",
+      "nome": "PEDRO BRAMONT",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2021-09-28",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "41 a 50 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 10,
+        "descricao": "Diretor "
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***599070**",
+      "nome": "RODRIGO MULINARI",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2021-08-31",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "41 a 50 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 10,
+        "descricao": "Diretor "
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***759718**",
+      "nome": "THIAGO AFFONSO BORSARI",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2021-07-13",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "31 a 40 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 10,
+        "descricao": "Diretor "
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***443671**",
+      "nome": "ANA CRISTINA ROSA GARCIA",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2023-03-22",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "51 a 60 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 10,
+        "descricao": "Diretor "
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***263100**",
+      "nome": "ANTONIO CARLOS WAGNER CHIARELLO",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2020-09-24",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "41 a 50 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 10,
+        "descricao": "Diretor "
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***195641**",
+      "nome": "ANELIZE LENZI RUAS DE ALMEIDA",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2023-05-16",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "41 a 50 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 8,
+        "descricao": "Conselheiro de Administração"
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***672408**",
+      "nome": "DARIO CARNEVALLI DURIGAN",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2023-09-04",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "31 a 40 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 8,
+        "descricao": "Conselheiro de Administração"
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***914748**",
+      "nome": "PAULO ROBERTO SIMAO BIJOS",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2023-08-18",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "41 a 50 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 8,
+        "descricao": "Conselheiro de Administração"
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***827438**",
+      "nome": "GABRIEL MURICCA GALIPOLO",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2023-05-16",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "41 a 50 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 8,
+        "descricao": "Conselheiro de Administração"
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***460676**",
+      "nome": "ELISA VIEIRA LEONEL",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2023-05-16",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "41 a 50 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 8,
+        "descricao": "Conselheiro de Administração"
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***077100**",
+      "nome": "ROBERT JUENEMANN",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2023-05-16",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "51 a 60 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 8,
+        "descricao": "Conselheiro de Administração"
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***383469**",
+      "nome": "MARCELO GASPARINO DA SILVA",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2023-05-16",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "51 a 60 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 8,
+        "descricao": "Conselheiro de Administração"
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***783438**",
+      "nome": "KELLY TATIANE MARTINS QUIRINO",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2023-05-16",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "41 a 50 anos",
+      "atualizado_em": "2024-08-10T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 8,
+        "descricao": "Conselheiro de Administração"
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    }
+  ],
   "simples": {
-    "simples": "Sim",
-    "data_opcao_simples": "2023-08-23",
-    "data_exclusao_simples": null,
-    "mei": "Sim",
-    "data_opcao_mei": "2023-08-23",
-    "data_exclusao_mei": null,
+    "simples": "Não",
+    "data_opcao_simples": "2007-07-01",
+    "data_exclusao_simples": "2007-07-01",
+    "mei": "Não",
+    "data_opcao_mei": "2009-07-01",
+    "data_exclusao_mei": "2009-07-01",
     "atualizado_em": "2024-08-10T03:00:00.000Z"
   },
   "estabelecimento": {
-    "cnpj": "51926701000197",
+    "cnpj": "00000000000191",
     "atividades_secundarias": [
       {
-        "id": "8599604",
-        "secao": "P",
-        "divisao": "85",
-        "grupo": "85.9",
-        "classe": "85.99-6",
-        "subclasse": "8599-6/04",
-        "descricao": "Treinamento em desenvolvimento profissional e gerencial"
+        "id": "6499999",
+        "secao": "K",
+        "divisao": "64",
+        "grupo": "64.9",
+        "classe": "64.99-9",
+        "subclasse": "6499-9/99",
+        "descricao": "Outras atividades de serviços financeiros não especificadas anteriormente"
       }
     ],
-    "cnpj_raiz": "51926701",
+    "cnpj_raiz": "00000000",
     "cnpj_ordem": "0001",
-    "cnpj_digito_verificador": "97",
+    "cnpj_digito_verificador": "91",
     "tipo": "Matriz",
-    "nome_fantasia": null,
+    "nome_fantasia": "DIRECAO GERAL",
     "situacao_cadastral": "Ativa",
-    "data_situacao_cadastral": "2023-08-23",
-    "data_inicio_atividade": "2023-08-23",
+    "data_situacao_cadastral": "2005-11-03",
+    "data_inicio_atividade": "1966-08-01",
     "nome_cidade_exterior": null,
-    "tipo_logradouro": "RUA",
-    "logradouro": "RESPLENDOR",
-    "numero": "6259",
-    "complemento": null,
-    "bairro": "SAO SEBASTIAO",
-    "cep": "64084120",
-    "ddd1": "86",
-    "telefone1": "88071127",
+    "tipo_logradouro": null,
+    "logradouro": "Q SAUN QUADRA 5 BLOCO B TORRE I, II, III",
+    "numero": "SN",
+    "complemento": "ANDAR T I SL S101 A S1602 T II SL C101 A C1602 TIII SL N101 A N1602",
+    "bairro": "ASA NORTE",
+    "cep": "70.040-912",
+    "ddd1": "61",
+    "telefone1": "34939002",
     "ddd2": null,
     "telefone2": null,
     "ddd_fax": null,
     "fax": null,
-    "email": "davihareis@gmail.com",
+    "email": "secex@bb.com.br",
     "situacao_especial": null,
     "data_situacao_especial": null,
-    "atualizado_em": "2024-08-10T03:00:00.000Z",
+    "atualizado_em": "2024-08-21T14:37:06.148Z",
     "atividade_principal": {
-      "id": "8599603",
-      "secao": "P",
-      "divisao": "85",
-      "grupo": "85.9",
-      "classe": "85.99-6",
-      "subclasse": "8599-6/03",
-      "descricao": "Treinamento em informática"
+      "id": "6422100",
+      "secao": "K",
+      "divisao": "64",
+      "grupo": "64.2",
+      "classe": "64.22-1",
+      "subclasse": "6422-1/00",
+      "descricao": "Bancos múltiplos, com carteira comercial"
     },
     "pais": {
       "id": "1058",
@@ -81,18 +1002,30 @@
       "comex_id": "105"
     },
     "estado": {
-      "id": 17,
-      "nome": "Piauí",
-      "sigla": "PI",
-      "ibge_id": 22
+      "id": 7,
+      "nome": "Distrito Federal",
+      "sigla": "DF",
+      "ibge_id": 53
     },
     "cidade": {
-      "id": 883,
-      "nome": "Teresina",
-      "ibge_id": 2211001,
-      "siafi_id": "1219"
+      "id": 5570,
+      "nome": "Brasília",
+      "ibge_id": 5300108,
+      "siafi_id": "9701"
     },
     "motivo_situacao_cadastral": null,
-    "inscricoes_estaduais": []
+    "inscricoes_estaduais": [
+      {
+        "inscricao_estadual": "0809427800174",
+        "ativo": true,
+        "atualizado_em": "2024-02-21T15:38:12.824Z",
+        "estado": {
+          "id": 7,
+          "nome": "Distrito Federal",
+          "sigla": "DF",
+          "ibge_id": 53
+        }
+      }
+    ]
   }
 }

@@ -5,7 +5,7 @@ const salvarCep = require('./cep')
 
 async function salvarCnpj(CNPJ) {
     try {
-        CNPJ = CNPJ.replace(/\D/g, "")
+        CNPJ = CNPJ.replace(/[^\d]/g, '')
         console.log(CNPJ)
         let url = (`https://publica.cnpj.ws/cnpj/`+ CNPJ)
 
@@ -35,6 +35,8 @@ async function salvarCnpj(CNPJ) {
         console.log(CNPJ)
     }
 }
+
+salvarCnpj('00000000000191') // Teste de uso do módulo salvarCnpj()
 
 module.exports = salvarCnpj;
 
